@@ -1,5 +1,7 @@
 # Update for AutoLoot Advanced Settings (Next Gen) by jerry18
 
+## Mod is now updated please use updated files from mod page
+
 Mod link: https://www.nexusmods.com/witcher3/mods/7400
 
 Special thanks to the original authors of the mod.
